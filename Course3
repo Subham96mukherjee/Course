@@ -9,3 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Subham Mukherjee
+Dynamic Programming
+1. Dynamic Programming is mainly an optimization over plain recursion
+2. The idea is to store the results of subproblems, so that we do not have to re-compute them when needed later
+3. How to improve the space and time complexity of an algorithm
